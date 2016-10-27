@@ -1,8 +1,18 @@
+<div class="center">
+	height: X px;
+	width: Y px;
+	background: black;
+	left:50%;
+	top:50%;
+	margin-top:- X/2 px;
+	margin-left:- Y/2 px;
+</div>
+
 body{
 	background-color: white;
 }
 
-li {
+/* li {
 	color: Black;
-}
+} */
 
