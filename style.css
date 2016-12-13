@@ -17,11 +17,11 @@ body {
     left: 16px;
     font-size: 18px;
 }
-.top-right{
-	position: absolute;
-	top: 8px;
-	right:16px;
-	color: white;
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
 }
 h1{
 	font-size: 50px;
