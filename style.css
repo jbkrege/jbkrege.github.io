@@ -19,8 +19,8 @@ body {
 }
 .topright {
     position: absolute;
-    top: 8px;
-    right: 16px;
+    top: 20px;
+    right: 20px;
     font-size: 18px;
 }
 h1{
