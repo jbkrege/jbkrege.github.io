@@ -1,15 +1,36 @@
+body {
+	background-color: black;
+}
 .center {
 	color: green;
 	font-family: "Courier New", Courier, monospace;
 	background-color: black;
     
-   	position: absolute;
+    	position: absolute;
  	top: 50%;
 	left: 50%;
     	transform: translate(-50%, -50%);
 }
-
-
-body {
-	background-color: black;
+.bottom {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
 }
+h1{
+	font-size: 50px;
+    	font-family: "Courier New", Courier, monospace;
+}
+ul.a{
+    font-size: 30px;
+    list-style-type: none;
+}
+a:link{
+	color: green;
+	text-decoration: none;
+}
+a:visited{
+	color: green;
+	text-decoration: none;
+}
+a:hover{color: white;}
