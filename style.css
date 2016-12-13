@@ -6,8 +6,9 @@
 	color: green;
 	background-color: black;
 	
-	max-width: 700px;
-	margin: 0 auto;
+	margin: auto;
+     	width: 100px;
+     	height: 100px;  
 }
 
 
