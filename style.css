@@ -1,18 +1,16 @@
-<div class="center">
-	height: X px;
-	width: Y px;
-	background: black;
-	left:50%;
-	top:50%;
-	margin-top:- X/2 px;
-	margin-left:- Y/2 px;
-</div>
-
-body{
-	background-color: white;
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+	color: green;
+	background-color: black;
+	
+	max-width: 700px;
+	margin: 0 auto;
 }
 
-/* li {
-	color: Black;
-} */
 
+body{
+	background-color: black;
+}
