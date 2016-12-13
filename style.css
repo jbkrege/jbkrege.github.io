@@ -28,6 +28,11 @@ h1{
     	font-family: "Courier New", Courier, monospace;
 	color: green;
 }
+h2{
+	font-size: 30px;
+    	font-family: "Courier New", Courier, monospace;
+	color: green;
+}
 ul.a{
     font-size: 30px;
     list-style-type: none;
