@@ -1,4 +1,6 @@
 # jbkrege.github.io
 Personal Website
 
-Nothing yet.
+To Do:
+Add games
+Put in writings 
