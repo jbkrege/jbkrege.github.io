@@ -2,5 +2,6 @@
 Personal Website
 
 To Do:
-Add games
-Put in writings 
+Add games   
+Put in writings   
+
