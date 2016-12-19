@@ -91,6 +91,7 @@ a:hover{color: white;}
 
 .show{display:block;}
 
+<script>
 /* Javascript for expanding writings*/
 fuction myFunction(){
 	document.getElementById("myDropdown").classList.toggle("show")	
@@ -109,3 +110,4 @@ window.onclick = function(event){
 		}
 	}
 }
+</script>
