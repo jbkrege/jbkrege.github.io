@@ -1,0 +1,53 @@
+div{
+  font-family: 'lucida console', sans-serif;
+  text-align: center;
+}
+div.base{
+  height: 500px;
+  width: 410px;
+  background: linear-gradient(#d8d8d8,#a8a8a8);
+  padding: 10px 10px 10px;
+}
+div.screen{
+  background-color: #f0f0c0;
+  height: 90px;
+  width: 325px;
+  margin-bottom: 15px;
+  margin-left: 19px;
+  border-style: inset;
+  border-radius: 10px;
+  border-width: 5px;
+  padding-right: 50px;
+  padding-top: 6px;
+  text-align: right;
+  font-size: 28px;
+}
+div.row{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+button{
+  color: black;
+  font-family: 'lucida console', sans-serif;
+  font-size: 26px;
+  margin-top: 4px;
+  border-style: outset;
+  border-radius: 13px;
+  border-width: 4px;
+  background-color:#d8d8d8; 
+  width: 94px;
+  height: 55px;
+}
+button:active{
+  border-style: inset;
+}
+button.zero{
+  width: 198px;
+  margin-top: 10px;
+}
+button.eq{
+  height: 120px;
+  margin: 3px;
+  float: right;
+  padding-top: 65px;
+}
