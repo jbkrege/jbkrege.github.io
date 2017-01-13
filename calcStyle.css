@@ -2,13 +2,13 @@ div{
   font-family: 'lucida console', sans-serif;
   text-align: center;
 }
-div.base{
+.base{
   height: 500px;
   width: 410px;
   background: linear-gradient(#d8d8d8,#a8a8a8);
   padding: 10px 10px 10px;
 }
-div.screen{
+.screen{
   background-color: #f0f0c0;
   height: 90px;
   width: 325px;
@@ -22,7 +22,7 @@ div.screen{
   text-align: right;
   font-size: 28px;
 }
-div.row{
+.row{
   margin-top: 5px;
   margin-bottom: 5px;
 }
@@ -44,11 +44,11 @@ button:active{
 button:hover{
      background: lightgrey;
 }
-button.zero{
+.zero{
   width: 198px;
   margin-top: 10px;
 }
-button.eq{
+.eq{
   height: 120px;
   margin: 3px;
   float: right;
