@@ -41,6 +41,9 @@ button{
 button:active{
   border-style: inset;
 }
+button:hover{
+     background: lightgrey;
+}
 button.zero{
   width: 198px;
   margin-top: 10px;
