@@ -42,7 +42,7 @@ button:active{
   border-style: inset;
 }
 button:hover{
-     background: lightgrey;
+     background: grey;
 }
 .zero{
   width: 198px;
