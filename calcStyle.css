@@ -2,13 +2,13 @@ div{
   font-family: 'lucida console', sans-serif;
   text-align: center;
 }
-.base{
+div.base{
   height: 500px;
   width: 410px;
   background: linear-gradient(#d8d8d8,#a8a8a8);
   padding: 10px 10px 10px;
 }
-.screen{
+#screen{
   background-color: #f0f0c0;
   height: 90px;
   width: 325px;
@@ -22,7 +22,21 @@ div{
   text-align: right;
   font-size: 28px;
 }
-.row{
+#opp{
+  font-size: 20px;
+  position: relative;
+  bottom: -40px;
+  right: -200px;
+  max-width: 21px;
+}
+#screenVal{
+  background-color: #f0f0c0;
+  position: relative;
+  text-align: right;
+  top: 20px;
+/*   overflow: scroll; */
+}
+div.row{
   margin-top: 5px;
   margin-bottom: 5px;
 }
@@ -33,7 +47,7 @@ button{
   margin-top: 4px;
   border-style: outset;
   border-radius: 13px;
-  border-width: 3px;
+  border-width: 4px;
   background-color:#d8d8d8; 
   width: 94px;
   height: 55px;
@@ -42,13 +56,13 @@ button:active{
   border-style: inset;
 }
 button:hover{
-     background: grey;
+  background: orange;
 }
-.zero{
+button.zero{
   width: 198px;
   margin-top: 10px;
 }
-.eq{
+button.eq{
   height: 120px;
   margin: 3px;
   float: right;
