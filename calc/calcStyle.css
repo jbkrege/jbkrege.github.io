@@ -24,6 +24,7 @@ div.base{
   font-size: 28px;
 }
 #opp{
+  font-family: 'lucida console', sans-serif;
   font-size: 20px;
   position: relative;
   bottom: -40px;
@@ -32,6 +33,7 @@ div.base{
 }
 #screenVal{
   background-color: #f0f0c0;
+  font-family: 'lucida console', sans-serif;
   position: relative;
   text-align: right;
   top: 20px;
