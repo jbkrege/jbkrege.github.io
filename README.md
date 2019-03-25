@@ -1,7 +1,3 @@
 # jbkrege.github.io
-Personal Website
-
-To Do:
-Add games   
-Put in writings   
+My first stab at a personal website/portfolio
 
